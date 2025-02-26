@@ -42,7 +42,7 @@ Sever: http://localhost:3000/
 # Problem 4 #
 
 ```sh
-node src/problem4/result-problem1.js
+node src/problem4/result-problem4.js
 ```
 
 
