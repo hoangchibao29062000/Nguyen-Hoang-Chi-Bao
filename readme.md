@@ -56,8 +56,8 @@ Pls clone Frontend
 git clone https://github.com/hoangchibao29062000/Nguyen-Hoang-Chi-Bao_Frontend-Problem5.git
 ```
 ```sh
-  cd Nguyen-Hoang-Chi-Bao_Frontend-Problem5
-  ```
+cd Nguyen-Hoang-Chi-Bao_Frontend-Problem5
+```
 How to start Fronend
   How to install
   ```sh
@@ -78,8 +78,8 @@ git clone https://github.com/hoangchibao29062000/Nguyen-Hoang-Chi-Bao_Backend-Pr
 My backend uses mysql so I need you to be able to install workbench, xampp,...
 
 ```sh
-  cd Nguyen-Hoang-Chi-Bao_Backend-Problem5
-  ```
+cd Nguyen-Hoang-Chi-Bao_Backend-Problem5
+```
 How to start Backend
   How to install
   ```sh
