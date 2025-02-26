@@ -106,10 +106,15 @@ export const ConnectDatabase = new DataSource({
   entities: ["src/models/*.ts"],
   // you should change variable synchronize = false
   // Because its function is to automatically create and change tables according to models
-  synchronize: true, 
+  synchronize: false, 
   logging: true,
 });
 ```
 
 Change: `const activeCreateValueDefault = false` `Nguyen-Hoang-Chi-Bao_Backend-Problem5\app.ts`
 Because this variable is responsible for allowing the creation of necessary setting variables for the server, for example: config,...
+
+```jsx
+const activeCreateValueDefault = false;
+});
+```
