@@ -69,6 +69,7 @@ How to start Fronend
   npm run start
   ```
   Sever: http://localhost:5000/
+I have connected Frontend to Back via API.
 
 ### Backend
 ```sh
