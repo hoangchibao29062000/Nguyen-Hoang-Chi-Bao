@@ -116,5 +116,4 @@ Because this variable is responsible for allowing the creation of necessary sett
 
 ```jsx
 const activeCreateValueDefault = false;
-});
 ```
