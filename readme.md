@@ -92,6 +92,7 @@ How to start Backend
   ```
   Sever: http://localhost:3000/
 
+### Important Warning
 Regarding Backend, I wrote code to automatically create schema and table in database, but if there is an error, I have backed up a SQL Data file located at `Nguyen-Hoang-Chi-Bao_Backend-Problem5\sql` and after creating all data to Database, change a variable `synchronize` in file `Nguyen-Hoang-Chi-Bao_Backend-Problem5\src\config\database.ts` and variable `activeCreateValueDefault` located at `Nguyen-Hoang-Chi-Bao_Backend-Problem5\app.ts` .
 
 
